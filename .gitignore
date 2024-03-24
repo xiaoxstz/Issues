@@ -1,0 +1,12 @@
+.vs/
+[Bb]in/
+[Rr]elease/
+[Dd]ebug/
+[Xx]64/
+[Xx]86/
+[Ww]in32/
+[Oo]bj/
+
+packages/
+
+*.user
